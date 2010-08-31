@@ -8,7 +8,7 @@ authors:
 - Arieh Glazer
 
 requires:
-- core/1.2.4 : [Native/Event]
+- core/1.2.4 : [Event]
 
 provides: [Event.Mock]
 
